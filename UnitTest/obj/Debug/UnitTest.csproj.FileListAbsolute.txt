@@ -1,0 +1,16 @@
+C:\Users\anike\source\repos\UnitTestProject\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\anike\source\repos\UnitTestProject\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\anike\source\repos\UnitTestProject\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\anike\source\repos\UnitTestProject\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\anike\source\repos\UnitTestProject\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\anike\source\repos\UnitTestProject\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\anike\source\repos\UnitTestProject\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\anike\source\repos\UnitTestProject\UnitTest\bin\Debug\UnitTestProject.dll
+C:\Users\anike\source\repos\UnitTestProject\UnitTest\bin\Debug\UnitTestProject.pdb
+C:\Users\anike\source\repos\UnitTestProject\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\anike\source\repos\UnitTestProject\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\anike\source\repos\UnitTestProject\UnitTest\obj\Debug\UnitTest.csprojAssemblyReference.cache
+C:\Users\anike\source\repos\UnitTestProject\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\anike\source\repos\UnitTestProject\UnitTest\obj\Debug\UnitTest.csproj.CopyComplete
+C:\Users\anike\source\repos\UnitTestProject\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\anike\source\repos\UnitTestProject\UnitTest\obj\Debug\UnitTest.pdb
